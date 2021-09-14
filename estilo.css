@@ -1,0 +1,30 @@
+.seccion{
+    display: flex;
+}
+.contenedor{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color:yellow;
+    padding: 1%;
+    border: solid 1px black;
+    margin: 15px 10px 15px;
+}
+.contenedor1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    padding: 1%;
+    border: solid 1px black;
+    margin: 15px 10px 15px; 
+}
+p{
+    letter-spacing: 1px;
+    margin: -5% 0% 0% -4%;
+    font-size: 200%;
+}
+
+div:hover.contenedor,div:hover.contenedor1{
+    background-color: green;
+}
