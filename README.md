@@ -1,4 +1,4 @@
 # Bloques
  
-{![](screenshot/img.jpg)<br>}
+![<br>](screenshot/img.jpg)
 ![](screenshot/img2.jpg)
