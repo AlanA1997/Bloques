@@ -1,4 +1,4 @@
 # Bloques
  
-![](screenshot/img.jpg)width: 300px; 
+![](screenshot/img.jpg)<br>
 ![](screenshot/img2.jpg)
